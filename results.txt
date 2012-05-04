@@ -1,13 +1,13 @@
 [System]
-platform: Linux-3.0.0-17-generic-x86_64-with-Ubuntu-11.10-oneiric
-version: jckarter/clay@4a0b992ae327d0ed41d7220b51bdb212d8d2474f (2012-04-19 12:23:41 -0700)
+platform: Linux-3.2.0-24-generic-x86_64-with-Ubuntu-12.04-precise
+version: jckarter/clay@9a9be666c3d31fa6f8514e17f9ccb115f88fce5f (2012-05-03 12:03:21 -0700)
 repository: https://github.com/jckarter/clay
 
 [SystemUname]
 system: Linux
 machine: x86_64
-version: #30-Ubuntu SMP Thu Mar 8 20:45:39 UTC 2012
-release: 3.0.0-17-generic
+version: #37-Ubuntu SMP Wed Apr 25 08:43:22 UTC 2012
+release: 3.2.0-24-generic
 processor: x86_64
 
 [TargetPlatform]
@@ -325,4 +325,4 @@ Disabled: 4
 
 # Test log written to testlog.txt
 
-time-taken-seconds: 376.820590
+time-taken-seconds: 386.394785
