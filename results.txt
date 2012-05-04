@@ -1,6 +1,6 @@
 [System]
 platform: Linux-3.2.0-24-generic-x86_64-with-Ubuntu-12.04-precise
-version: jckarter/clay@c25920a43b4a6eed816a3cbb62b0b35801b3aa8d (2012-05-04 13:43:38 -0700)
+version: jckarter/clay@2ec74b9e6b836cc84421be8a3be5a87ab762ccd0 (2012-05-04 14:16:28 -0700)
 repository: https://github.com/jckarter/clay
 
 [SystemUname]
@@ -325,4 +325,4 @@ Disabled: 4
 
 # Test log written to testlog.txt
 
-time-taken-seconds: 800.513268
+time-taken-seconds: 776.130271

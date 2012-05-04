@@ -1,5 +1,5 @@
-[  4%] [  8%] Building CXX object compiler/src/CMakeFiles/clay.dir/clone.cpp.o
-Building CXX object compiler/src/CMakeFiles/clay.dir/analyzer.cpp.o
+[  4%] [  8%] Building CXX object compiler/src/CMakeFiles/clay.dir/analyzer.cpp.o
+Building CXX object compiler/src/CMakeFiles/clay.dir/clone.cpp.o
 [ 12%] Building CXX object compiler/src/CMakeFiles/clay.dir/codegen.cpp.o
 [ 16%] Building CXX object compiler/src/CMakeFiles/clay.dir/constructors.cpp.o
 [ 20%] Building CXX object compiler/src/CMakeFiles/clay.dir/desugar.cpp.o
